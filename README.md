@@ -18,3 +18,7 @@
 - [Keynote](https://www.youtube.com/watch?v=0ZjTV6-nIe4)
 - [Secure by design](https://www.youtube.com/watch?v=Lx-8JTFT_y4)
 - [Piloting Agents with GitHub Copilot](https://www.youtube.com/watch?v=2s9thtIHSDg)
+
+## 17-06-2025 - Github basics
+
+<!-- capacitacao-petro-git-github -->
