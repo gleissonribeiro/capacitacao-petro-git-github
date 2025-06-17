@@ -22,3 +22,5 @@
 ## 17-06-2025 - Github basics
 
 <!-- capacitacao-petro-git-github -->
+O GitHub Copilot é uma ferramenta de inteligência artificial desenvolvida pela GitHub em parceria com a OpenAI. Ele auxilia desenvolvedores sugerindo trechos de código, funções completas e até mesmo documentação, diretamente no editor de código. Com o Copilot, é possível aumentar a produtividade, reduzir erros e aprender novas abordagens de programação, tornando o desenvolvimento de software mais ágil e eficiente.
+
