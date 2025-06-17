@@ -9,6 +9,10 @@
 
 ## 12-06-2025 - Github basics
 
+### Hands-on
+
+- [Hands-on](https://github.com/dev-pods/copilot-intermediate-training)
+
 ### Github Galaxy 2025
 
 - [Keynote](https://www.youtube.com/watch?v=0ZjTV6-nIe4)
